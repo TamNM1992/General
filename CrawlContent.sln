@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General.Api", "General\General.Api.csproj", "{E602867D-9B41-401D-97E6-3306A370FB98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlContent.Api", "CrawlContent.Api\CrawlContent.Api.csproj", "{E602867D-9B41-401D-97E6-3306A370FB98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General.Common", "General.Common\General.Common.csproj", "{BEB15E98-08F7-4F1C-8047-49DD636CC22E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlContent.Common", "CrawlContent.Common\CrawlContent.Common.csproj", "{BEB15E98-08F7-4F1C-8047-49DD636CC22E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General.DataAccess", "General.DataAccess\General.DataAccess.csproj", "{C83CE954-C06F-4686-9AE4-5413A9DF9CEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlContent.DataAccess", "CrawlContent.DataAccess\CrawlContent.DataAccess.csproj", "{C83CE954-C06F-4686-9AE4-5413A9DF9CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General.DataDto", "General.DataDto\General.DataDto.csproj", "{8F2D996C-B759-4DDB-87E1-FB6BE14E061D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlContent.DataDto", "CrawlContent.DataDto\CrawlContent.DataDto.csproj", "{8F2D996C-B759-4DDB-87E1-FB6BE14E061D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General.Repository", "General.Repository\General.Repository.csproj", "{1DCAE168-3112-47DB-9972-4137CEB30FDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlContent.Repository", "CrawlContent.Repository\CrawlContent.Repository.csproj", "{1DCAE168-3112-47DB-9972-4137CEB30FDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General.Services", "General.Services\General.Services.csproj", "{F0695900-7AD7-4FD9-A184-B2701E131624}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlContent.Services", "CrawlContent.Services\CrawlContent.Services.csproj", "{F0695900-7AD7-4FD9-A184-B2701E131624}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\General.Common\General.Common.csproj" />
+    <ProjectReference Include="..\CrawlContent.Common\CrawlContent.Common.csproj" />
   </ItemGroup>
 
 </Project>

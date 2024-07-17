@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\General.DataAccess\General.DataAccess.csproj" />
-    <ProjectReference Include="..\General.DataDto\General.DataDto.csproj" />
+    <ProjectReference Include="..\CrawlContent.DataAccess\CrawlContent.DataAccess.csproj" />
+    <ProjectReference Include="..\CrawlContent.DataDto\CrawlContent.DataDto.csproj" />
   </ItemGroup>
 
 </Project>

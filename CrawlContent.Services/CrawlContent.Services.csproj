@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\General.Repository\General.Repository.csproj" />
+    <ProjectReference Include="..\CrawlContent.Repository\CrawlContent.Repository.csproj" />
   </ItemGroup>
 
 </Project>

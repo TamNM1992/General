@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\General.Services\General.Services.csproj" />
+    <ProjectReference Include="..\CrawlContent.Services\CrawlContent.Services.csproj" />
   </ItemGroup>
 
 </Project>
